@@ -9,7 +9,7 @@ public class testClass {
 		
 		
 		WebDriver driver= new FirefoxDriver(); 
-		
+		driver.get("https://www.google.com");
 
 	}
 
